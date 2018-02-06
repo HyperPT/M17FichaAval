@@ -1,5 +1,9 @@
 package m17b_fichaaval;
 // Carlos Peregrino & Igor Klyukevych
+/**
+ * 
+ * @author a16116 & a16947
+ */
 
 public class Main {
 //Repositorio: https://github.com/HyperPT/M17FichaAval
